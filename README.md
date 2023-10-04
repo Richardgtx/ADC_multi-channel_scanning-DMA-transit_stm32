@@ -15,4 +15,4 @@ DMA可以不需要CPU的干预而直接服务外设。这样CPU就可以去处�
 
 ![微信图片_202310041415366](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/0c2cba53-c966-4fb1-9e8f-66fd75cac0c7)
 
-
+![微信图片_202310041415367](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/f1fb3695-dafb-4c36-be84-7fd12291ae5e)
