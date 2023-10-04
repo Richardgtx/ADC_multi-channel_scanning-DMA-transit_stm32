@@ -19,8 +19,6 @@ DMA可以不需要内核的干预而直接服务外设。这样内核就可以�
 ![微信图片_20231004141538](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/4e7bb469-96c0-4c1c-a7bd-bc30ef00f674)
 ![微信图片_202310041415381](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/36d86c99-df63-4c4b-8cc2-61dbf635f264)
 ![微信图片_202310041415382](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/6a459c15-3123-4fad-9303-e6f7bfe5602b)
-![微信图片_202310041415366](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/2915e646-1263-4a73-8369-c2bc981ab6c5)
-![微信图片_202310041415367](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/04ca7367-c463-428e-933b-319b9110c960)
 ![微信图片_202310041415368](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/cf37e27b-fc90-43b5-9713-b6fbf664b2ac)
 ![微信图片_20231004141537](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/0a7847ff-7de8-4aff-83b1-34b327a7a50b)
 ![微信图片_202310041415371](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/9ec2d8fe-b750-4dfb-a560-efe245abd31f)
