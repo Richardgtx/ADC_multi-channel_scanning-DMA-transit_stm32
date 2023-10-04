@@ -15,9 +15,6 @@ DMA可以不需要内核的干预而直接服务外设。这样内核就可以�
 
 ![微信图片_202310041415366](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/0c2cba53-c966-4fb1-9e8f-66fd75cac0c7)
 
-![微信图片_202310041415367](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/f1fb3695-dafb-4c36-be84-7fd12291ae5e)
-
-![微信图片_202310041415374](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/6134b011-5ef4-4201-a898-9d37b5217c49)
 ![微信图片_202310041415375](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/b2baa45c-6898-4de3-82c1-3f406a7cc2c0)
 ![微信图片_20231004141538](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/4e7bb469-96c0-4c1c-a7bd-bc30ef00f674)
 ![微信图片_202310041415381](https://github.com/Richardgtx/ADC_multi-channel_scanning-DMA-transit_stm32/assets/139878921/36d86c99-df63-4c4b-8cc2-61dbf635f264)
